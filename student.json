@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "id": "de0e",
+      "name": "Dương D1",
+      "birthday": "2024-04-12",
+      "phoneNumber": "09900",
+      "hometown": "Tuyên Quang"
+    },
+    {
+      "id": "cb7b",
+      "name": "Hoàng Đình Hiệp",
+      "birthday": "2024-04-13",
+      "phoneNumber": "0988921277",
+      "hometown": "Xã Thanh Cao"
+    },
+    {
+      "id": "8587",
+      "name": "Nam Giao Building Tower",
+      "birthday": "2024-04-06",
+      "phoneNumber": "jjjj",
+      "hometown": "Phường 2"
+    }
+  ]
+}
