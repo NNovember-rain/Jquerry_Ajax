@@ -27,10 +27,10 @@ fetch(studentApi)
 $("#sub").click(function () {
     document.getElementById("myForm").addEventListener("submit", function (event) {
         event.preventDefault(); 
-        // Validate input fields
+        // check Validate input fields
         validateInput();
         var checkData=true;
-        // get form data
+        // lấy data
         var dataForm={};
         var formData=$("#myForm").serializeArray();
         $.each(formData,function(i,v){
